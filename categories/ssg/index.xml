@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ssg on Masphe Sit</title>
+    <link>https://example.org/categories/ssg/</link>
+    <description>Recent content in ssg on Masphe Sit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Mar 2024 15:44:49 +0700</lastBuildDate>
+    <atom:link href="https://example.org/categories/ssg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mengenal SSG</title>
+      <link>https://example.org/posts/mengenal-ssg/</link>
+      <pubDate>Sun, 17 Mar 2024 15:44:49 +0700</pubDate>
+      <guid>https://example.org/posts/mengenal-ssg/</guid>
+      <description>Pengantar Ada banyak cara membuat website, salah satu yang sedang tren saat ini adalah menggunakan static site generator. Kita akan kenalan apa itu SSG&#xA;Ada banyak jalan untuk sampai ke Roma, begitu juga dengan membuat website, ada banyak cara untuk melakukannya. Salah satu tren saat ini adalah membuat website dengan static site generator atau yang dikenal dengan SSG.&#xA;Static Site Generator adalah tool yang akan membantu kita mengubah website yang dibangun menjadi file file statis HTML, CSS dan Javascript untuk dikonsumsi oleh penggunanya nanti</description>
+    </item>
+  </channel>
+</rss>

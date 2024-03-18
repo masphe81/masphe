@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Masphe Sit</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Masphe Sit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Mar 2024 21:18:42 +0700</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sintax Markdown</title>
+      <link>https://example.org/posts/sintax-markdown/</link>
+      <pubDate>Sun, 17 Mar 2024 21:18:42 +0700</pubDate>
+      <guid>https://example.org/posts/sintax-markdown/</guid>
+      <description>1 Headings Headings from h2 through h6 are constructed with a # for each level:&#xA;## h2 Heading ### h3 Heading #### h4 Heading ##### h5 Heading ###### h6 Heading The HTML looks like this:&#xA;&amp;lt;h2&amp;gt;h2 Heading&amp;lt;/h2&amp;gt; &amp;lt;h3&amp;gt;h3 Heading&amp;lt;/h3&amp;gt; &amp;lt;h4&amp;gt;h4 Heading&amp;lt;/h4&amp;gt; &amp;lt;h5&amp;gt;h5 Heading&amp;lt;/h5&amp;gt; &amp;lt;h6&amp;gt;h6 Heading&amp;lt;/h6&amp;gt; To add a custom heading ID, enclose the custom ID in curly braces on the same line as the heading:&#xA;### A Great Heading {#custom-id} The HTML looks like this:</description>
+    </item>
+    <item>
+      <title>Mengenal SSG</title>
+      <link>https://example.org/posts/mengenal-ssg/</link>
+      <pubDate>Sun, 17 Mar 2024 15:44:49 +0700</pubDate>
+      <guid>https://example.org/posts/mengenal-ssg/</guid>
+      <description>Pengantar Ada banyak cara membuat website, salah satu yang sedang tren saat ini adalah menggunakan static site generator. Kita akan kenalan apa itu SSG&#xA;Ada banyak jalan untuk sampai ke Roma, begitu juga dengan membuat website, ada banyak cara untuk melakukannya. Salah satu tren saat ini adalah membuat website dengan static site generator atau yang dikenal dengan SSG.&#xA;Static Site Generator adalah tool yang akan membantu kita mengubah website yang dibangun menjadi file file statis HTML, CSS dan Javascript untuk dikonsumsi oleh penggunanya nanti</description>
+    </item>
+    <item>
+      <title>Mengenal Hugo</title>
+      <link>https://example.org/posts/mengenal-hugo/</link>
+      <pubDate>Fri, 15 Mar 2024 22:38:52 +0700</pubDate>
+      <guid>https://example.org/posts/mengenal-hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Wed, 13 Mar 2024 22:29:13 +0700</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>Judul &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&amp;rdquo;</description>
+    </item>
+    <item>
+      <title>My Second Post</title>
+      <link>https://example.org/posts/my-second-post/</link>
+      <pubDate>Wed, 13 Mar 2024 22:29:13 +0700</pubDate>
+      <guid>https://example.org/posts/my-second-post/</guid>
+      <description>This is my first markdown post.</description>
+    </item>
+  </channel>
+</rss>
